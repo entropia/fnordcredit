@@ -13,8 +13,9 @@
     "mqtt": "^0.3.8",
     "winston": "0.7.x",
     "q": "1.0.x",
-    "rethinkdb": "1.12.x",
-    "socket.io": "0.9.x"
+    "rethinkdb": "1.16.x",
+    "socket.io": "0.9.x",
+    "password-hash": "1.2.2"
   },
   "devDependencies": {
     "mocha": "^1.20.1"
@@ -25,9 +26,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/silsha/fnordcredit.git"
+    "url": "https://github.com/entropia/fnordcredit.git"
   },
   "bugs": {
-    "url": "https://github.com/silsha/fnordcredit/issues"
+    "url": "https://github.com/entropia/fnordcredit/issues"
   }
 }
